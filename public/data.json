@@ -1,0 +1,187 @@
+{
+  "showcases": [
+    {
+      "id": 1,
+      "name": "Portugal Store",
+      "thumb": "https://images.houpa.app/uploads/perfil/medium/2020/03/09/5e66622b69b58.jpeg",
+      "products": [
+        {
+          "id": 1,
+          "photo": "https://images.houpa.app/uploads/produtos/medium/2020/08/04/5f298ff3cc05a.png",
+          "price": "R$ 129,90",
+          "name": "Vestido Estampado",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s."
+        },
+        {
+          "id": 2,
+          "photo": "https://images.houpa.app/uploads/produtos/medium/2020/02/07/5e3db761805d4.png",
+          "price": "R$ 99,89",
+          "name": "Calça Beje",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s."
+        },
+        {
+          "id": 3,
+          "photo": "https://http2.mlstatic.com/kit-2-camiseta-lisa-cinza-mescla-100-algodo-gola-redonda-D_NQ_NP_750312-MLB31700909409_082019-F.jpg",
+          "price": "R$ 45,90",
+          "name": "Camiseta Lisa",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s."
+        },
+        {
+          "id": 4,
+          "photo": "https://d30yzb15lwfdhi.cloudfront.net/media/catalog/product/cache/2/small_image/550x770/602f0fa2c1f0d1ba5e241f914e856ff9/j/a/jaqueta_masculina_de_couro_chopper_-_preta-1.jpg",
+          "price": "R$ 350,00",
+          "name": "Jaqueta de Couro",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s."
+        },
+        {
+          "id": 5,
+          "photo": "https://images.houpa.app/uploads/produtos/medium/2020/02/07/5e3db8958721e.png",
+          "price": "R$ 65,00",
+          "name": "Blusa Florida",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s."
+        },
+        {
+          "id": 6,
+          "photo": "https://images.houpa.app/uploads/produtos/medium/2020/02/07/5e3db64d2b27b.png",
+          "price": "R$ 90,90",
+          "name": "Ciganinha Florida",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s."
+        },
+        {
+          "id": 7,
+          "photo": "https://images.houpa.app/uploads/produtos/medium/2020/02/07/5e3db81c5bb4e.png",
+          "price": "R$ 99,99",
+          "name": "Bermuda Branca",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s."
+        },
+        {
+          "id": 8,
+          "photo": "https://images.houpa.app/uploads/produtos/medium/2020/02/07/5e3db82e03303.png",
+          "price": "R$ 50,00",
+          "name": "Camiseta Listrada",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Creative Store",
+      "thumb": "https://cityworksdepot.co.nz/wp-content/uploads/2015/09/TCS-bw.jpg",
+      "products": [
+        {
+          "id": 1,
+          "photo": "https://images.houpa.app/uploads/produtos/medium/2020/02/07/5e3db82e03303.png",
+          "price": "R$ 50,00",
+          "name": "Camiseta Listrada",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s."
+        },
+        {
+          "id": 2,
+          "photo": "https://images.houpa.app/uploads/produtos/medium/2020/02/07/5e3db81c5bb4e.png",
+          "price": "R$ 89,99",
+          "name": "Bermuda Branca",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s."
+        },
+        {
+          "id": 3,
+          "photo": "https://images.houpa.app/uploads/produtos/medium/2020/02/07/5e3db64d2b27b.png",
+          "price": "R$ 65,90",
+          "name": "Ciganinha Florida",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s."
+        },
+        {
+          "id": 4,
+          "photo": "https://images.houpa.app/uploads/produtos/medium/2020/02/07/5e3db8958721e.png",
+          "price": "R$ 20,00",
+          "name": "Blusa Florida",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s."
+        },
+        {
+          "id": 5,
+          "photo": "https://i.pinimg.com/originals/fa/04/54/fa04540a1881b099e41012125cd87084.jpg",
+          "price": "R$ 29,99",
+          "name": "Meia Fogo",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s."
+        },
+        {
+          "id": 6,
+          "photo": "https://static.hupishop.com.br/public/hupibikes/imagens/produtos/meia-hupi-asas-3997.jpg",
+          "price": "R$ 35,50",
+          "name": "Meia Asas",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s."
+        },
+        {
+          "id": 7,
+          "photo": "https://img.lojasrenner.com.br/item/545749100/zoom/1.jpg",
+          "price": "R$ 12,20",
+          "name": "Meia Florida",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s."
+        },
+        {
+          "id": 8,
+          "photo": "https://static.hupishop.com.br/public/hupibikes/imagens/produtos/meia-hupi-banana-2386.jpg",
+          "price": "R$ 14,99",
+          "name": "Meia Banana",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "King of Socks",
+      "thumb": "https://image.freepik.com/vetores-gratis/logotipo-de-meias_10250-3793.jpg",
+      "products": [
+        {
+          "id": 1,
+          "photo": "https://img.lojasrenner.com.br/item/545749100/zoom/1.jpg",
+          "price": "R$ 12,20",
+          "name": "Meia Florida",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s."
+        },
+        {
+          "id": 2,
+          "photo": "https://static.hupishop.com.br/public/hupibikes/imagens/produtos/meia-hupi-banana-2386.jpg",
+          "price": "R$ 14,99",
+          "name": "Meia Banana",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s."
+        },
+        {
+          "id": 3,
+          "photo": "https://static.hupishop.com.br/public/hupibikes/imagens/produtos/meia-hupi-asas-3997.jpg",
+          "price": "R$ 35,50",
+          "name": "Meia Asas",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s."
+        },
+        {
+          "id": 4,
+          "photo": "https://i.pinimg.com/originals/fa/04/54/fa04540a1881b099e41012125cd87084.jpg",
+          "price": "R$ 29,99",
+          "name": "Meia Fogo",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s."
+        },
+        {
+          "id": 5,
+          "photo": "https://http2.mlstatic.com/meias-food-series-casal-meias-criativas-wild-casal-algodo-m-D_NQ_NP_606168-MLM32756473856_112019-F.jpg",
+          "price": "R$ 55,50",
+          "name": "Meia Melancia",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s."
+        },
+
+        {
+          "id": 6,
+          "photo": "https://cdn.awsli.com.br/600x450/941/941299/produto/43629771/761b56ca95.jpg",
+          "price": "R$ 30,50",
+          "name": "Meia Colorida",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s."
+        },
+        {
+          "id": 7,
+          "photo": "https://meiasfsb.com/wp-content/uploads/2019/09/meia-flamingo-estampada-meias-criativas-FSB.jpg",
+          "price": "R$ 29,99",
+          "name": "Meia Cisne",
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s."
+        }
+      ]
+    }
+  ]
+}

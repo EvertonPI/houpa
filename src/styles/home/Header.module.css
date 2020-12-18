@@ -1,0 +1,130 @@
+.barNavigation {
+  background-color: #fafafa;
+  height: 6rem;
+}
+.layoutPosition {
+  display: flex;
+  max-width: 130rem !important;
+}
+.flexRow {
+  justify-content: space-between;
+  align-items: center;
+}
+.imgBars {
+  margin-right: 1rem;
+}
+
+.inputSearch {
+  width: 80%;
+  border: 0;
+  border-bottom: 1px solid #707070;
+  background-color: #fafafa;
+  font-size: 1.4rem;
+}
+.inputSearch::-webkit-input-placeholder {
+  /* WebKit, Blink, Edge */
+  color: #838c91;
+}
+
+.inputSearch:-moz-placeholder {
+  /* Mozilla Firefox 4 to 18 */
+  color: #838c91;
+  opacity: 1;
+}
+
+.inputSearch::-moz-placeholder {
+  /* Mozilla Firefox 19+ */
+  color: #838c91;
+  opacity: 1;
+}
+
+.inputSearch:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: #838c91;
+}
+
+.inputSearch::-ms-input-placeholder {
+  /* Microsoft Edge */
+  color: #838c91;
+}
+
+.iconSearch {
+  width: 2rem;
+  margin-top: 0.2rem;
+  color: #525252;
+}
+.linkDistance {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 15rem;
+  margin-right: 1rem;
+}
+.iconFavorite {
+  width: 2.2rem;
+  color: #525252;
+  transition: background-color 0.4s;
+}
+.iconFavorite:hover {
+  color: red;
+}
+.shoppingCart {
+  width: 2rem;
+  fill: #525252;
+}
+.textItens {
+  margin-top: 1rem;
+  font-size: 1.6rem;
+  color: #707070;
+}
+
+/* versão Tablet e laptop */
+@media (max-width: 103rem) {
+  .layoutPosition {
+    display: flex !important;
+    max-width: 103rem;
+  }
+  .flexRow {
+    justify-content: space-between !important;
+    align-items: flex-end !important;
+  }
+}
+/* versão mobile do celular 
+pq essa medida pois eu coloquei 300 px de distance ai tem que soma */
+@media (max-width: 47.9rem) {
+  .d-flex {
+    position: relative;
+  }
+  .navHome {
+    display: flex;
+    position: absolute;
+    left: 6rem;
+    top: 3.4rem;
+    z-index: 10;
+  }
+  .imgBars {
+    display: none;
+  }
+  .navMenu {
+    position: absolute;
+    left: 2rem;
+    top: 5.5rem;
+    z-index: 10;
+  }
+  .linkDistance {
+    height: 6rem;
+  }
+  .iconSearch {
+    margin-left: 0.5rem;
+  }
+  .inputSearch {
+    width: 100%;
+    outline: none;
+    margin-left: 1rem;
+    border: 0;
+    border-bottom: 1px solid #707070;
+  }
+  .textItens {
+    margin-left: 1rem;
+  }
+}

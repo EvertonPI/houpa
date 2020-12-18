@@ -1,0 +1,19 @@
+.container {
+  max-width: 130rem !important;
+  margin-top: 2.4rem !important;
+}
+.layout {
+  display: flex;
+  align-items: center;
+}
+.imgLogo {
+  width: 15.2rem;
+  height: 15.2rem;
+  border-radius: 50%;
+  z-index: 5;
+}
+.title {
+  font: 400 2.4rem/1 Poppins, Roboto, sans-serif;
+  color: #222222;
+  margin-left: 2rem;
+}

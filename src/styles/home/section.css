@@ -1,0 +1,51 @@
+.container {
+  max-width: 130rem !important;
+  margin-top: 2.4rem !important;
+  text-align: center;
+}
+.link {
+  position: relative;
+  height: 65.5rem !important;
+  width: 23.5rem !important;
+}
+.card {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.imgCard {
+  width: 23.5rem;
+  height: 41.3rem;
+}
+.card-title {
+  color: #333333;
+  font-size: 1.6rem;
+}
+.description {
+  font-size: 1.4rem;
+  color: #525252;
+}
+.text-muted {
+  font-size: 2rem;
+  color: #707070;
+}
+.slick-prev:before,
+.slick-next:before {
+  color: #222222 !important;
+}
+
+.buttonCard {
+  background-color: #000000 !important;
+  border-radius: 4px;
+  color: #fff;
+  height: 4rem;
+  width: 9.4rem;
+  margin-top: 2rem;
+  transition: background-color 0.4s;
+  font-size: 1.6rem;
+}
+.buttonCard:hover {
+  background-color: #000013 !important;
+}
